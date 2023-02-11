@@ -1,0 +1,22 @@
+! Title: nyanchan
+! Version: 20230211
+! Homepage: https://github.com/killtrill/nyanchan
+
+!-------------------------------------------
+
+!yahoo.co.jp
+
+!くじ
+yahoo.co.jp##aside[class="ArticleBox_ArticleBox__Z3L_F ArticleBox_ArticleBoxHasBorder__D4wgR"]
+
+!毎日無料まんが
+yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
+
+!-------------------------------------------
+
+!Amazon.co.jp
+
+!トップの自動再生Prime Video
+amazon.co.jp##div[class="a-cardui atv-draper-video-card"]
+
+
