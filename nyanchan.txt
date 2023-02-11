@@ -12,6 +12,12 @@ yahoo.co.jp##aside[class="ArticleBox_ArticleBox__Z3L_F ArticleBox_ArticleBoxHasB
 !毎日無料まんが
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
 
+!ピックアップ
+yahoo.co.jp###Service > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+
+!リアルタイム
+yahoo.co.jp###realtime > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+
 !-------------------------------------------
 
 !Amazon.co.jp
