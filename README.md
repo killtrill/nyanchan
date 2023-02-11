@@ -1,0 +1,3 @@
+# nyanchan
+
+my rule
