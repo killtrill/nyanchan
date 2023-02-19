@@ -1,10 +1,37 @@
 ! Title: nyanchan
-! Version: 20230211
+! Version: 20230219
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
 
 !yahoo.co.jp
+
+!Yahooロゴの上の変なの(PC)
+yahoo.co.jp###eyebrow
+
+!検索バー下の変なの(PC)
+yahoo.co.jp###TopLink > ul.QoCp7KDEt29FbN5hCjsCx:last-child
+
+!ログインそばクーポン(PC)
+yahoo.co.jp###StatusMyCoupon > a.yMWCYupQNdgppL-NV6sMi._3sAlKGsIBCxTUbNi86oSjt > dl.NhCWhleHpZ0CADioxObVu
+
+!ピックアップ(PC)
+yahoo.co.jp###Service > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+
+!リアルタイム(PC)
+yahoo.co.jp###realtime > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
+
+!サービス一覧(PC)
+yahoo.co.jp###ToolList > ul._1glrFPJpWbefWf8qr3k4FU
+
+!ビジネスで活用するなら(PC)
+yahoo.co.jp###biz > div._1nJ39BFpWaPCIWutB-olO8._171Q0OxQF2Vk3J_CxMxajb.-DmdTfmK9dpsdI1vggc-z
+
+!CSR(PC)
+yahoo.co.jp###csr
+
+!ヤフーからのお知らせ
+yahoo.co.jp###info > div._1nJ39BFpWaPCIWutB-olO8._171Q0OxQF2Vk3J_CxMxajb.-DmdTfmK9dpsdI1vggc-z
 
 !くじ
 yahoo.co.jp##aside[class="ArticleBox_ArticleBox__Z3L_F ArticleBox_ArticleBoxHasBorder__D4wgR"]
@@ -12,17 +39,12 @@ yahoo.co.jp##aside[class="ArticleBox_ArticleBox__Z3L_F ArticleBox_ArticleBoxHasB
 !毎日無料まんが
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
 
-!ピックアップ
-yahoo.co.jp###Service > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
-
-!リアルタイム
-yahoo.co.jp###realtime > div._1nJ39BFpWaPCIWutB-olO8._2wxmE85OIsKrFYkvsJ2Tu1.-DmdTfmK9dpsdI1vggc-z
 
 !-------------------------------------------
 
 !Amazon.co.jp
 
-!トップの自動再生Prime Video
+!トップの自動再生Prime Video(スマホ）
 amazon.co.jp##div[class="a-cardui atv-draper-video-card"]
 
 
