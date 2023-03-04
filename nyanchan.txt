@@ -41,7 +41,6 @@ yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBox
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgroundColor--A7 theme-Kisekae__afterPseudoBackgroundColor--B6 ArticleBox_ArticleBoxHasBorder__D4wgR"]
 
 !ニュースタブのエンタメ
-yahoo.co.jp##div[class="TopicArticles_TopicArticles__title__oBd43"]
 yahoo.co.jp##div[class="TopicArticles_TopicArticles__itemWrapper__IL2_8 theme-Kisekae__borderColor--B6 theme-Kisekae__backgroundColor--A7"]
 
 !つかえないクーポンども
