@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20230219
+! Version: 20230304
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -38,6 +38,14 @@ yahoo.co.jp##aside[class="ArticleBox_ArticleBox__Z3L_F ArticleBox_ArticleBoxHasB
 
 !毎日無料まんが
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
+yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgroundColor--A7 theme-Kisekae__afterPseudoBackgroundColor--B6 ArticleBox_ArticleBoxHasBorder__D4wgR"]
+
+!ニュースタブのエンタメ
+yahoo.co.jp##div[class="TopicArticles_TopicArticles__title__oBd43"]
+yahoo.co.jp##div[class="TopicArticles_TopicArticles__itemWrapper__IL2_8 theme-Kisekae__borderColor--B6 theme-Kisekae__backgroundColor--A7"]
+
+!つかえないクーポンども
+yahoo.co.jp##div[class="Coupon_StreamCoupon__content__vcr93"]
 
 
 !-------------------------------------------
