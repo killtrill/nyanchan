@@ -30,20 +30,20 @@ yahoo.co.jp###biz > div._1nJ39BFpWaPCIWutB-olO8._171Q0OxQF2Vk3J_CxMxajb.-DmdTfmK
 !CSR(PC)
 yahoo.co.jp###csr
 
-!ヤフーからのお知らせ
+!ヤフーからのお知らせ(PC)
 yahoo.co.jp###info > div._1nJ39BFpWaPCIWutB-olO8._171Q0OxQF2Vk3J_CxMxajb.-DmdTfmK9dpsdI1vggc-z
 
-!くじ
+!くじ(スマホ)
 yahoo.co.jp##aside[class="ArticleBox_ArticleBox__Z3L_F ArticleBox_ArticleBoxHasBorder__D4wgR"]
 
-!毎日無料まんが
+!毎日無料まんが(スマホ)
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
 yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgroundColor--A7 theme-Kisekae__afterPseudoBackgroundColor--B6 ArticleBox_ArticleBoxHasBorder__D4wgR"]
 
 !ニュースタブのエンタメ
 !yahoo.co.jp##div[class="TopicArticles_TopicArticles__itemWrapper__IL2_8 theme-Kisekae__borderColor--B6 theme-Kisekae__backgroundColor--A7"]
 
-!つかえないクーポンども
+!つかえないクーポンども(スマホ)
 yahoo.co.jp##div[class="Coupon_StreamCoupon__content__vcr93"]
 
 
@@ -54,4 +54,10 @@ yahoo.co.jp##div[class="Coupon_StreamCoupon__content__vcr93"]
 !トップの自動再生Prime Video(スマホ）
 amazon.co.jp##div[class="a-cardui atv-draper-video-card"]
 
+
+!-------------------------------------------
+
+!bing.com
+!bingトップ　検索バーより下を全部除去(PC)
+bing.com##div[class*="vs"]
 
