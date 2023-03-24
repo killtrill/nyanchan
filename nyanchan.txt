@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20230304
+! Version: 20230325
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -61,3 +61,9 @@ amazon.co.jp##div[class="a-cardui atv-draper-video-card"]
 !bingトップ　検索バーより下を全部除去(PC)
 bing.com##div[class*="vs"]
 
+!-------------------------------------------
+
+!Wikipedia
+!Wikipediaのデカすぎる寄付依頼
+ja.wikipedia.org##.vector-sitenotice-container
+ja.wikipedia.org###siteNotice
