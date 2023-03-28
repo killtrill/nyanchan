@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20230325
+! Version: 20230328
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -67,3 +67,8 @@ bing.com##div[class*="vs"]
 !Wikipediaのデカすぎる寄付依頼
 ja.wikipedia.org##.vector-sitenotice-container
 ja.wikipedia.org###siteNotice
+
+!-------------------------------------------
+
+!Cocoon counter
+/cocoon-master/lib/analytics/access.php?
