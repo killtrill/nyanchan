@@ -1,6 +1,39 @@
 ! Title: nyanchan
-! Version: 20230328
+! Version: 20230401
 ! Homepage: https://github.com/killtrill/nyanchan
+
+!-------------------------------------------
+
+!TRILLとクラシルへアクセスしないようにする
+||trilltrill.jp^
+||kurashiru.jp^
+
+!詐欺
+||zeromobile.co.jp^
+||otomo.club^
+
+!収益化関係
+||abc-model.com^
+||freeworkroom.com^
+||umibouzusecod.jp^
+||cham-group.com
+||pamxy.co.jp^
+||makusan.jp^
+||tsuzukiblog.org^
+||fukugyo-free.com^
+||yuka001.com^
+||lotsful.jp^
+||boonboonblog.com^
+||yujiblog.org^
+||nihongo1000.com^
+
+
+
+
+!-------------------------------------------
+
+!Cocoon counter
+/cocoon-master/lib/analytics/access.php?
 
 !-------------------------------------------
 
@@ -68,7 +101,4 @@ bing.com##div[class*="vs"]
 ja.wikipedia.org##.vector-sitenotice-container
 ja.wikipedia.org###siteNotice
 
-!-------------------------------------------
 
-!Cocoon counter
-/cocoon-master/lib/analytics/access.php?
