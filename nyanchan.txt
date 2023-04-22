@@ -1,12 +1,17 @@
 ! Title: nyanchan
-! Version: 20230401
+! Version: 20230422
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
 
 !TRILLとクラシルへアクセスしないようにする
 ||trilltrill.jp^
+##a[href*="trilltrill"]
 ||kurashiru.jp^
+##a[href*="kurashiru"]
+
+!シンプルに嫌い
+google.com##a[href*="2shin"]
 
 !詐欺
 ||zeromobile.co.jp^
@@ -70,8 +75,8 @@ yahoo.co.jp###info > div._1nJ39BFpWaPCIWutB-olO8._171Q0OxQF2Vk3J_CxMxajb.-DmdTfm
 yahoo.co.jp##aside[class="ArticleBox_ArticleBox__Z3L_F ArticleBox_ArticleBoxHasBorder__D4wgR"]
 
 !毎日無料まんが(スマホ)
-yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
-yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgroundColor--A7 theme-Kisekae__afterPseudoBackgroundColor--B6 ArticleBox_ArticleBoxHasBorder__D4wgR"]
+!yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic ArticleBox_ArticleBoxHasBorder__D4wgR"]
+!yahoo.co.jp##div[class="ArticleBox_ArticleBox__Z3L_F Comic theme-Kisekae__backgroundColor--A7 theme-Kisekae__afterPseudoBackgroundColor--B6 ArticleBox_ArticleBoxHasBorder__D4wgR"]
 
 !ニュースタブのエンタメ
 !yahoo.co.jp##div[class="TopicArticles_TopicArticles__itemWrapper__IL2_8 theme-Kisekae__borderColor--B6 theme-Kisekae__backgroundColor--A7"]
