@@ -493,6 +493,12 @@ yahoo.co.jp##a[data-cl-params*="numero"]
 !オルタナ
 yahoo.co.jp##a[data-cl-params*="alterna"]
 
+!アフロ
+yahoo.co.jp##a[data-cl-params*="storyfulv"]
+
+!FLOOR
+yahoo.co.jp##a[data-cl-params*="-floor"]
+
 !ラジオ
 !文化放送
 yahoo.co.jp##a[data-cl-params*="-joqr"]
@@ -506,3 +512,5 @@ yahoo.co.jp##a[data-cl-params*="raditopi"]
 !J-WAVE NEWS 81.3FM
 yahoo.co.jp##a[data-cl-params*="-jwave"]
 
+!ニッポン放送
+yahoo.co.jp##a[data-cl-params*="nshaberu"]
