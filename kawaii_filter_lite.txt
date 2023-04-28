@@ -1,5 +1,5 @@
 ! Title: kawaii filter lite
-! Version: 20230408
+! Version: 20230428
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルターLite
@@ -289,6 +289,9 @@ yahoo.co.jp##a[data-cl-params*="books_apps"]
 
 !NewsPicks + d
 yahoo.co.jp##a[data-cl-params*="npicksd"]
+
+!NewsPicks
+yahoo.co.jp##a[data-cl-params*="newspicksn"]
 
 !Tarzan Web
 yahoo.co.jp##a[data-cl-params*="tarzanweb"]
