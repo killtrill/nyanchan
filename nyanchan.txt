@@ -52,7 +52,7 @@ techtarget.itmedia.co.jp##article[data-articletype*="PR"]
 !yahoo.co.jp
 
 !このページをよく見るあなたにおすすめブラウザーよりも快適に(スマホ）
-##.RichSmartAppBanner_RichSmartAppBanner__link__euC7z
+yahoo.co.jp##.RichSmartAppBanner_RichSmartAppBanner__link__euC7z
 
 !Yahooロゴの上の変なの(PC)
 yahoo.co.jp###eyebrow
