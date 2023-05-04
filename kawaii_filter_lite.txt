@@ -25,6 +25,9 @@ yahoo.co.jp##a[href*="kurashiru"]
 
 !目に余るサイト抜粋
 
+!ねとらぼ
+yahoo.co.jp##a[data-cl-params*="nlab"]
+
 !ママスタセレクト
 yahoo.co.jp##a[data-cl-params*="mamasta"]
 
