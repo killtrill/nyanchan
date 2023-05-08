@@ -1,5 +1,5 @@
 ! Title: kawaii filter lite
-! Version: 20230501
+! Version: 20230508
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルターLite
@@ -526,3 +526,6 @@ yahoo.co.jp##a[data-cl-params*="-jwave"]
 
 !ニッポン放送
 yahoo.co.jp##a[data-cl-params*="nshaberu"]
+
+!TBSラジオ
+yahoo.co.jp##a[data-cl-params*="-tl-tbsradio"]
