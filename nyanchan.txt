@@ -11,7 +11,7 @@
 ##a[href*="kurashiru"]
 
 !Twitter Space
-twitter.com##div[class="css-1dbjc4n r-g2wdr4 r-14wv3jr r-1867qdf r-1phboty r-rs99b7 r-1ifxtd0 r-1udh08x"]
+twitter.com##div[class="css-1dbjc4n r-eqz5dr r-1777fci"]
 
 !シンプルに嫌い
 google.com##a[href*="2shin"]
