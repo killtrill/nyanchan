@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20230528
+! Version: 20230724
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -12,6 +12,8 @@
 
 !Twitter Space 試験運用
 twitter.com##div[style="transform: translate3d(0px, 0px, 0px) translateY(100px);"]
+!XCorp Logo
+twitter.com##path[d="M14.258 10.152L23.176 0h-2.113l-7.747 8.813L7.133 0H0l9.352 13.328L0 23.973h2.113l8.176-9.309 6.531 9.309h7.133zm-2.895 3.293l-.949-1.328L2.875 1.56h3.246l6.086 8.523.945 1.328 7.91 11.078h-3.246zm0 0"]
 
 !シンプルに嫌い
 google.com##a[href*="2shin"]
