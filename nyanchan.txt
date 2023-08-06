@@ -19,8 +19,8 @@ twitter.com##path[d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.8
 !Twitter retweet
 twitter.com#$?#article:contains(/リツイートしました/)
 twitter.com#$?#article:contains(/引用ツイート/)
-twitter.com##div[class^="css-1dbjc4n r-1kqtdi0 r-1867qdf r-rs99b7 r-1loqt21 r-adacv r-1ny4l3l r-1udh08x r-o7ynqc r-6416eg"]
-twitter.com##div[class^="css-18t94o4 css-1dbjc4n r-1ny4l3l r-1j3t67a r-kmv1fd r-o7ynqc r-6416eg"]
+!twitter.com##div[class^="css-1dbjc4n r-1kqtdi0 r-1867qdf r-rs99b7 r-1loqt21 r-adacv r-1ny4l3l r-1udh08x r-o7ynqc r-6416eg"]
+!twitter.com##div[class^="css-18t94o4 css-1dbjc4n r-1ny4l3l r-1j3t67a r-kmv1fd r-o7ynqc r-6416eg"]
 !twitter.com##h2[class^="css-4rbku5 css-1dbjc4n r-18u37iz"]
 
 !シンプルに嫌い
