@@ -1,5 +1,5 @@
 ! Title: kawaii filter lite
-! Version: 20231007
+! Version: 20231020
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルターLite
@@ -534,6 +534,9 @@ yahoo.co.jp##a[data-cl-params*="-popeye"]
 
 !Danmee
 yahoo.co.jp##a[data-cl-params*="-tl-danmee"]
+
+!Ciateシアター
+yahoo.co.jp##a[data-cl-params*="-tl-viviane"]
 
 !ラジオ
 !文化放送
