@@ -53,7 +53,7 @@ google.com##div[class^="I6TXqe"]
 google.com##div[class^="Lv2Cle"]
 google.com##div[class^="AuVD"]
 google.com##div[class^="cUnQKe"]
-
+google.com##div[class^="kp-wholepage"]
 
 
 !詐欺
