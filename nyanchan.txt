@@ -40,20 +40,20 @@ google.com##a[href*="2shin"]
 !Googleのゴミ除去
 
 !ほかの人はこちらも検索
-google.com##div[class^="TzHB6b Hwkikb WY0eLb jHARG gyswkf"]
+!google.com##div[class^="TzHB6b Hwkikb WY0eLb jHARG gyswkf"]
 !トップニュース
-google.com##g-section-with-header[class^="yG4QQe TBC9ub"]
+!google.com##g-section-with-header[class^="yG4QQe TBC9ub"]
 !動画
-google.com##div[class^="uVMCKf"]
+!google.com##div[class^="uVMCKf"]
 !関連度の高い検索
-google.com##div[id*="bres"]
-google.com##div[class^="I6TXqe"]
+!google.com##div[id*="bres"]
+!google.com##div[class^="I6TXqe"]
 
 !for mobile
-google.com##div[class^="Lv2Cle"]
-google.com##div[class^="AuVD"]
-google.com##div[class^="cUnQKe"]
-google.com##div[class^="kp-wholepage"]
+!google.com##div[class^="Lv2Cle"]
+!google.com##div[class^="AuVD"]
+!google.com##div[class^="cUnQKe"]
+!google.com##div[class^="kp-wholepage"]
 
 
 !詐欺
