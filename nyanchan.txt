@@ -15,6 +15,13 @@ twitter.com##div[style="transform: translate3d(0px, 0px, 0px) translateY(100px);
 !XCorp Logo
 !twitter.com##path[d="M14.258 10.152L23.176 0h-2.113l-7.747 8.813L7.133 0H0l9.352 13.328L0 23.973h2.113l8.176-9.309 6.531 9.309h7.133zm-2.895 3.293l-.949-1.328L2.875 1.56h3.246l6.086 8.523.945 1.328 7.91 11.078h-3.246zm0 0"]
 twitter.com##path[d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"]
+twitter.com##a[href^="/message"]
+
+twitter.com#$?#article:has(div[class="css-1dbjc4n r-1kqtdi0 r-1867qdf r-rs99b7 r-1loqt21 r-wa8dpy r-1ny4l3l r-1udh08x r-o7ynqc r-6416eg"]) {display: none!important;}
+twitter.com#$?#article:has(div[class="css-1dbjc4n r-15zivkp r-q3we1"]) {display: none!important;} twitter.com#$?#h2:has(div[class^="css-1dbjc4n r-1kihuf0 r-18u37iz r-16y2uox r-17s6mgv"]) {display: none!important;}
+twitter.com##div[style="background-image: linear-gradient(61.63deg, rgb(45, 66, 255) -15.05%, rgb(156, 99, 250) 104.96%);"]
+twitter.com##div[aria-label^="タイムライン: 話題を検索"]
+
 !twitter.com##div[class^="css-1dbjc4n r-1awozwy r-16y2uox r-1wbh5a2 r-1pi2tsx r-1777fci"]
 !Twitter retweet
 twitter.com#$?#article:contains(/リツイートしました/)
@@ -23,8 +30,31 @@ twitter.com#$?#article:contains(/引用ツイート/)
 !twitter.com##div[class^="css-18t94o4 css-1dbjc4n r-1ny4l3l r-1j3t67a r-kmv1fd r-o7ynqc r-6416eg"]
 !twitter.com##h2[class^="css-4rbku5 css-1dbjc4n r-18u37iz"]
 
+
+
+
 !シンプルに嫌い
 google.com##a[href*="2shin"]
+
+!-------------------------------------------
+!Googleのゴミ除去
+
+!ほかの人はこちらも検索
+google.com##div[class^="TzHB6b Hwkikb WY0eLb jHARG gyswkf"]
+!トップニュース
+google.com##g-section-with-header[class^="yG4QQe TBC9ub"]
+!動画
+google.com##div[class^="uVMCKf"]
+!関連殿高い検索
+google.com##div[id*="bres"]
+google.com##div[class^="I6TXqe"]
+
+!for mobile
+google.com##div[class^="Lv2Cle"]
+google.com##div[class^="AuVD"]
+google.com##div[class^="cUnQKe"]
+
+
 
 !詐欺
 ||zeromobile.co.jp^
