@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20230806
+! Version: 20231027
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -45,7 +45,7 @@ google.com##div[class^="TzHB6b Hwkikb WY0eLb jHARG gyswkf"]
 google.com##g-section-with-header[class^="yG4QQe TBC9ub"]
 !動画
 google.com##div[class^="uVMCKf"]
-!関連殿高い検索
+!関連度の高い検索
 google.com##div[id*="bres"]
 google.com##div[class^="I6TXqe"]
 
