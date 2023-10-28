@@ -57,6 +57,10 @@ google.com##div[class^="cUnQKe"]
 google.com##div[jscontroller^="Da4hkd"]
 !ショート動画
 google.com##div[jscontroller^="k23IOe"]
+!動画
+google.com##div[jscontroller^="p60aqb"]
+!トップニュース
+google.com##div[class^="xSoq1"]
 !画像
 google.com##div[jscontroller^="pgCXqb"]
 google.com##div[jscontroller^="LdB9sd"]
