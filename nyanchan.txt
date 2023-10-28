@@ -50,11 +50,11 @@ google.com##a[href*="2shin"]
 !google.com##div[class^="I6TXqe"]
 
 !for mobile
-!google.com##div[class^="Lv2Cle"]
-!google.com##div[class^="AuVD"]
-!google.com##div[class^="cUnQKe"]
-!google.com##div[class^="kp-wholepage"]
-
+google.com##div[class^="Lv2Cle"]
+google.com##div[class^="AuVD"]
+google.com##div[class^="cUnQKe"]
+google.com##div[class^="Da4hkd"]
+google.com##div[jscontroller^="k23IOe"]
 
 !詐欺
 ||zeromobile.co.jp^
