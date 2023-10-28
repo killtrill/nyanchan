@@ -58,7 +58,7 @@ google.com##div[jscontroller^="Da4hkd"]
 !ショート動画
 google.com##div[jscontroller^="k23IOe"]
 !動画
-google.com##div[jscontroller^="p60aqb"]
+google.com##div[jscontroller^="p6Oaqb"]
 !トップニュース
 google.com##div[class^="xSoq1"]
 !画像
@@ -66,6 +66,8 @@ google.com##div[jscontroller^="pgCXqb"]
 google.com##div[jscontroller^="LdB9sd"]
 !ほかの人はこちらも検索
 google.com##div[jscontroller^="ILbBec"]
+!Twitter
+google.com##div[jscontroller^="yz368b"]
 
 !詐欺
 ||zeromobile.co.jp^
