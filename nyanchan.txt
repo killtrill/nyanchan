@@ -36,39 +36,6 @@ twitter.com#$?#article:contains(/引用ツイート/)
 !シンプルに嫌い
 google.com##a[href*="2shin"]
 
-!-------------------------------------------
-!Googleのゴミ除去
-
-!ほかの人はこちらも検索
-!google.com##div[class^="TzHB6b Hwkikb WY0eLb jHARG gyswkf"]
-!トップニュース
-!google.com##g-section-with-header[class^="yG4QQe TBC9ub"]
-!動画
-!google.com##div[class^="uVMCKf"]
-!関連度の高い検索
-!google.com##div[id*="bres"]
-!google.com##div[class^="I6TXqe"]
-
-!for mobile
-google.com##div[class^="Lv2Cle"]
-google.com##div[class^="AuVD"]
-google.com##div[class^="cUnQKe"]
-!関係する質問
-google.com##div[jscontroller^="Da4hkd"]
-!ショート動画
-google.com##div[jscontroller^="k23IOe"]
-!動画
-google.com##div[jscontroller^="p6Oaqb"]
-!トップニュース
-google.com##div[class^="xSoq1"]
-!画像
-google.com##div[jscontroller^="pgCXqb"]
-google.com##div[jscontroller^="LdB9sd"]
-!ほかの人はこちらも検索
-google.com##div[jscontroller^="ILbBec"]
-!Twitter
-google.com##div[jscontroller^="yz368b"]
-
 !詐欺
 ||zeromobile.co.jp^
 ||otomo.club^

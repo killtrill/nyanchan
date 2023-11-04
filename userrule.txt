@@ -1,5 +1,5 @@
 ! Title: userrule
-! Version: 2023911
+! Version: 20231104
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -19,3 +19,37 @@ amazon.co.jp##div[id^="mobile-hero-order"]
 twitter.com#$?#article:has(div[class="css-1dbjc4n r-15zivkp r-q3we1"]) {display: none!important;}
 twitter.com#$?#h2:has(div[class^="css-1dbjc4n r-1kihuf0 r-18u37iz r-16y2uox r-17s6mgv"]) {display: none!important;}
 twitter.com##div[style="background-image: linear-gradient(61.63deg, rgb(45, 66, 255) -15.05%, rgb(156, 99, 250) 104.96%);"]
+
+!-------------------------------------------
+!Googleのゴミ除去
+
+!ほかの人はこちらも検索
+!google.com##div[class^="TzHB6b Hwkikb WY0eLb jHARG gyswkf"]
+!トップニュース
+!google.com##g-section-with-header[class^="yG4QQe TBC9ub"]
+!動画
+!google.com##div[class^="uVMCKf"]
+!関連度の高い検索
+!google.com##div[id*="bres"]
+!google.com##div[class^="I6TXqe"]
+
+!for mobile
+!google.com##div[class^="Lv2Cle"]
+!google.com##div[class^="AuVD"]
+!google.com##div[class^="cUnQKe"]
+!関係する質問
+google.com##div[jscontroller^="Da4hkd"]
+!ショート動画
+google.com##div[jscontroller^="k23IOe"]
+!動画
+google.com##div[jscontroller^="p6Oaqb"]
+!トップニュース
+!google.com##div[class^="xSoq1"]
+!画像
+google.com##div[jscontroller^="pgCXqb"]
+google.com##div[jscontroller^="LdB9sd"]
+!ほかの人はこちらも検索
+google.com##div[jscontroller^="ILbBec"]
+!Twitter
+google.com##div[jscontroller^="yz368b"]
+
