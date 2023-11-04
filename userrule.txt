@@ -24,9 +24,9 @@ twitter.com##div[style="background-image: linear-gradient(61.63deg, rgb(45, 66, 
 
 !ゴミ
 ||my-best.com^
-##a[href*="my-best.com"]
+google.com##a[href*="my-best.com"]
 ||sakidori.co^
-##a[href*="sakidori.co"]
+google.com##a[href*="sakidori.co"]
 
 !-------------------------------------------
 !Googleのゴミ除去
