@@ -1,5 +1,5 @@
 ! Title: kawaii filter lite
-! Version: 20231020
+! Version: 20231105
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルターLite
@@ -537,6 +537,9 @@ yahoo.co.jp##a[data-cl-params*="-tl-danmee"]
 
 !Ciateシアター
 yahoo.co.jp##a[data-cl-params*="-tl-viviane"]
+
+!The Hollywood Reporter Japan
+yahoo.co.jp##a[data-cl-params*="thrjapan"]
 
 !ラジオ
 !文化放送
