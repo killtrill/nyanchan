@@ -21,6 +21,7 @@ twitter.com#$?#h2:has(div[class^="css-1dbjc4n r-1kihuf0 r-18u37iz r-16y2uox r-17
 twitter.com##div[style="background-image: linear-gradient(61.63deg, rgb(45, 66, 255) -15.05%, rgb(156, 99, 250) 104.96%);"]
 
 !rakuten
+!PC
 rakuten.co.jp##div[id^="mno-header"]
 rakuten.co.jp##div[id^="bigBannerWidget"]
 rakuten.co.jp##div[id^="raceWidget"]
@@ -35,6 +36,28 @@ rakuten.co.jp##section[id^="sc_ad_timesale_normal"]
 rakuten.co.jp##section[id^="sc_lidAdd_contents"]
 rakuten.co.jp##section[id^="sc_lidAdd_rmagazine"]
 rakuten.co.jp##div[id^="group-container"]
+
+!mobile
+rakuten.co.jp##div[irc^="RaceBigBanner"]
+rakuten.co.jp##div[class^="container--_nyyr"]
+rakuten.co.jp##div[irc^="BigSaleTabContent"]
+rakuten.co.jp##div[irc^="RaceSubFesBanner"]
+rakuten.co.jp##div[irc^="ServiceRecommendation"]
+rakuten.co.jp##div[irc^="RecommendedCouponWidget"]
+rakuten.co.jp##div[irc^="TodaRecommendation"]
+rakuten.co.jp##section[class^="rtSection"]
+rakuten.co.jp##div[irc^="SuperDealRecommendation"]
+rakuten.co.jp##div[irc^="RankingSlider"]
+rakuten.co.jp##div[irc^="PopularShopsCollection"]
+rakuten.co.jp##div[irc^="BrandGadget"]
+rakuten.co.jp##div[irc^="TimeSale"]
+rakuten.co.jp##div[irc^="Rmagazine"]
+rakuten.co.jp##div[irc^="CurationContent"]
+rakuten.co.jp##div[irc^="PickupKeywords"]
+rakuten.co.jp##div[irc^="BrandPortal"]
+rakuten.co.jp##div[irc^="ServicesApplicationGrid"]
+rakuten.co.jp##div[irc^="AdBanner"]
+rakuten.co.jp##div[irc^="Footer"]
 
 !-------------------------------------------
 
