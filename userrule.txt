@@ -1,5 +1,5 @@
 ! Title: userrule
-! Version: 20231104
+! Version: 20231110
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -19,6 +19,22 @@ amazon.co.jp##div[id^="mobile-hero-order"]
 twitter.com#$?#article:has(div[class="css-1dbjc4n r-15zivkp r-q3we1"]) {display: none!important;}
 twitter.com#$?#h2:has(div[class^="css-1dbjc4n r-1kihuf0 r-18u37iz r-16y2uox r-17s6mgv"]) {display: none!important;}
 twitter.com##div[style="background-image: linear-gradient(61.63deg, rgb(45, 66, 255) -15.05%, rgb(156, 99, 250) 104.96%);"]
+
+!rakuten
+rakuten.co.jp##div[id^="mno-header"]
+rakuten.co.jp##div[id^="bigBannerWidget"]
+rakuten.co.jp##div[id^="raceWidget"]
+rakuten.co.jp##section[irc^="BigSaleTabContent"]
+rakuten.co.jp##div[id^="side-navi"]
+rakuten.co.jp##section[id^="smart-coupon"]
+rakuten.co.jp##section[id^="sc_ad_pickup_normal"]
+rakuten.co.jp##section[id^="sc_sidAdd_rBrand"]
+rakuten.co.jp##section[id^="ashiatoShopLogo"]
+rakuten.co.jp##div[class^="ad-slideshow-existItemDisplay ri-main-contents"]
+rakuten.co.jp##section[id^="sc_ad_timesale_normal"]
+rakuten.co.jp##section[id^="sc_lidAdd_contents"]
+rakuten.co.jp##section[id^="sc_lidAdd_rmagazine"]
+rakuten.co.jp##div[id^="group-container"]
 
 !-------------------------------------------
 
