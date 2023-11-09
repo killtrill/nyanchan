@@ -23,6 +23,8 @@ twitter.com#$?#article:has(div[class="css-1dbjc4n r-15zivkp r-q3we1"]) {display:
 twitter.com##div[style="background-image: linear-gradient(61.63deg, rgb(45, 66, 255) -15.05%, rgb(156, 99, 250) 104.96%);"]
 twitter.com##div[aria-label^="タイムライン: 話題を検索"]
 
+twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr r-1867qdf r-1phboty r-rs99b7 r-1ifxtd0 r-1udh08x"]
+
 !twitter.com##div[class^="css-1dbjc4n r-1awozwy r-16y2uox r-1wbh5a2 r-1pi2tsx r-1777fci"]
 !Twitter retweet
 twitter.com#$?#article:contains(/リツイートしました/)
