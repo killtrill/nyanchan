@@ -55,7 +55,7 @@ rakuten.co.jp##div[irc^="Rmagazine"]
 rakuten.co.jp##div[irc^="CurationContent"]
 rakuten.co.jp##div[irc^="PickupKeywords"]
 rakuten.co.jp##div[irc^="BrandPortal"]
-rakuten.co.jp##div[irc^="ServicesApplicationGrid"]
+rakuten.co.jp##div[irc^="ServicesApplicationsGrid"]
 rakuten.co.jp##div[irc^="AdBanner"]
 rakuten.co.jp##div[irc^="Footer"]
 
