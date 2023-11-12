@@ -1,5 +1,5 @@
 ! Title: userrule
-! Version: 20231110
+! Version: 20231113
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -80,8 +80,12 @@ google.com##a[href*="sakidori.co"]
 !動画
 !google.com##div[class^="uVMCKf"]
 !関連度の高い検索
-!google.com##div[id*="bres"]
+google.com##div[id*="bres"]
 !google.com##div[class^="I6TXqe"]
+
+!注目されている商品
+google.com##g-card[class^="T98FId"]
+google.com##div[class^="ULSxyf"]
 
 !for mobile
 !google.com##div[class^="Lv2Cle"]
