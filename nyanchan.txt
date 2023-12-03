@@ -1,8 +1,11 @@
 ! Title: nyanchan
-! Version: 20231123
+! Version: 20231203
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
+
+!Yahoo 共同通信
+yahoo.co.jp##a[data-cl-params*="-kyodonews"]
 
 !TRILLとクラシルへアクセスしないようにする
 ||trilltrill.jp^
