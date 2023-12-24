@@ -68,11 +68,15 @@ rakuten.co.jp##div[irc^="Footer"]
 
 !-------------------------------------------
 
-!ゴミ
-||my-best.com^
-google.com##a[href*="my-best.com"]
-||sakidori.co^
-google.com##a[href*="sakidori.co"]
+!ゴミ(nyanchanへ)
+!||my-best.com^
+!##a[href*="my-best.com"]
+!||sakidori.co^
+!##a[href*="sakidori.co"]
+
+!google.com##div[jscontroller="SC7lYd"]:has(a[href*="https://sakidori"])
+!google.com##div[jscontroller="SC7lYd"]:has(a[href*="https://my-best"])
+!google.com##div[jscontroller="SC7lYd"]:has(a[href^="https://osusume.mynavi"])
 
 !-------------------------------------------
 !Googleのゴミ除去

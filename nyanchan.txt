@@ -4,6 +4,20 @@
 
 !-------------------------------------------
 
+
+!-------------------------------------------
+!ゴミ
+||my-best.com^
+##a[href*="my-best.com"]
+||sakidori.co^
+##a[href*="sakidori.co"]
+
+google.com##div[jscontroller="SC7lYd"]:has(a[href*="https://sakidori"])
+google.com##div[jscontroller="SC7lYd"]:has(a[href*="https://my-best"])
+google.com##div[jscontroller="SC7lYd"]:has(a[href^="https://osusume.mynavi"])
+
+!-------------------------------------------
+
 !Yahoo 共同通信
 yahoo.co.jp##a[data-cl-params*="-kyodonews"]
 
