@@ -12,9 +12,9 @@
 ||sakidori.co^
 ##a[href*="sakidori.co"]
 
-google.com##div[jscontroller="SC7lYd"]:has(a[href*="https://sakidori"])
-google.com##div[jscontroller="SC7lYd"]:has(a[href*="https://my-best"])
-google.com##div[jscontroller="SC7lYd"]:has(a[href^="https://osusume.mynavi"])
+google.com##div[class^="MjjYud"]:has(a[href*="https://my-best"])
+google.com##div[class^="MjjYud"]:has(a[href*="https://sakidori"])
+google.com##div[class^="MjjYud"]:has(a[href*="https://osusume.mynavi"])
 
 !-------------------------------------------
 
