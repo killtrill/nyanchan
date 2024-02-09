@@ -1,5 +1,5 @@
 ! Title: kawaii filter lite
-! Version: 20231105
+! Version: 20240209
 ! Homepage: https://github.com/killtrill/kawaii_filter
 
 ! かわいいフィルターLite
@@ -30,6 +30,15 @@ yahoo.co.jp##a[data-cl-params*="nlab"]
 
 !ママスタセレクト
 yahoo.co.jp##a[data-cl-params*="mamasta"]
+
+!4MEEE
+yahoo.co.jp##a[data-cl-params*="tl-4meee"]
+
+!4yuuu
+yahoo.co.jp##a[data-cl-params*="tl-4yuuu"]
+
+!ピンズバWeb
+yahoo.co.jp##a[data-cl-params*="pinzuba"]
 
 !バズフィード　表記揺れかわいくない
 yahoo.co.jp##a[data-cl-params*="bfj"]
