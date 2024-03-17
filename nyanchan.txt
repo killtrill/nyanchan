@@ -29,16 +29,16 @@ yahoo.co.jp##a[data-cl-params*="-jnn"]
 !TV キー局
 
 !テレビ朝日系(ANN)
-!yahoo.co.jp##a[data-cl-params*="-ann"]
+yahoo.co.jp##a[data-cl-params*="-ann"]
 
 !FNNプライムオンライン
-!yahoo.co.jp##a[data-cl-params*="-fnnprimev"]
+yahoo.co.jp##a[data-cl-params*="-fnnprimev"]
 
 !FNNプライムオンライン(フジテレビ系）
-!yahoo.co.jp##a[data-cl-params*="-fnn"]
+yahoo.co.jp##a[data-cl-params*="-fnn"]
 
 !日テレNEWS
-!yahoo.co.jp##a[data-cl-params*="-nnn"]
+yahoo.co.jp##a[data-cl-params*="-nnn"]
 
 
 !TRILLとクラシルへアクセスしないようにする
