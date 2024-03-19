@@ -1,20 +1,31 @@
 ! Title: nyanchan
-! Version: 20240317
+! Version: 20240320
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
 
 
 !-------------------------------------------
-!ゴミ
+!目障りなランキングサイト
 ||my-best.com^
 ##a[href*="my-best.com"]
 ||sakidori.co^
 ##a[href*="sakidori.co"]
+||rank-king.jp
+##a[href*="rank-king.jp"]
+||heim.jp
+##a[href*="heim.jp"]
+||osusume.mynavi.jp
+##a[href*="osusume.mynavi.jp"]
+||ranking.goo.ne.jp
+##a[href*="ranking.goo.ne.jp"]
 
 google.com##div[class^="MjjYud"]:has(a[href*="https://my-best"])
 google.com##div[class^="MjjYud"]:has(a[href*="https://sakidori"])
+google.com##div[class^="MjjYud"]:has(a[href*="https://rank-king"])
+google.com##div[class^="MjjYud"]:has(a[href*="https://heim"])
 google.com##div[class^="MjjYud"]:has(a[href*="https://osusume.mynavi"])
+google.com##div[class^="MjjYud"]:has(a[href*="https://ranking.goo.ne.jp"])
 
 !-------------------------------------------
 
