@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20240320
+! Version: 20240407
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -22,6 +22,11 @@ google.com##div[class^="MjjYud"]:has(a[href*="https://sakidori.co"])
 bing.com##li[class^="b_algo"]:has-text("rank-king.jp")
 google.com##div[class^="MjjYud"]:has(a[href*="https://rank-king.jp"])
 
+||ran-king.jp
+##a[href*="ran-king.jp"]
+bing.com##li[class^="b_algo"]:has-text("ran-king.jp")
+google.com##div[class^="MjjYud"]:has(a[href*="https://ran-king.jp"])
+
 ||heim.jp
 ##a[href*="heim.jp"]
 bing.com##li[class^="b_algo"]:has-text("heim.jp")
@@ -36,6 +41,17 @@ google.com##div[class^="MjjYud"]:has(a[href*="https://osusume.mynavi.jp"])
 ##a[href*="ranking.goo.ne.jp"]
 bing.com##li[class^="b_algo"]:has-text("ranking.goo.ne.jp")
 google.com##div[class^="MjjYud"]:has(a[href*="https://ranking.goo.ne.jp"])
+
+||thebest-1.com
+##a[href*="thebest-1.com"]
+bing.com##li[class^="b_algo"]:has-text("thebest-1.com")
+google.com##div[class^="MjjYud"]:has(a[href*="https://thebest-1.com"])
+
+||rank1-media.com
+##a[href*="rank1-media.com"]
+bing.com##li[class^="b_algo"]:has-text("rank1-media.com")
+google.com##div[class^="MjjYud"]:has(a[href*="https://rank1-media.com"])
+
 
 !-------------------------------------------
 
