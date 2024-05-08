@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20240428
+! Version: 20240508
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -112,18 +112,30 @@ twitter.com##div[aria-label^="タイムライン: 話題を検索"]
 
 twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr r-1867qdf r-1phboty r-rs99b7 r-1ifxtd0 r-1udh08x"]
 
-
 !Twitter プレミアム
-twitter.com###layers > div.css-175oi2r.r-aqfbo4.r-zchlnj.r-1xcajam.r-1d2f490.r-12vffkv:last-child > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-1pz39u2.r-16y2uox.r-1wbh5a2 > div.css-175oi2r.r-1ny4l3l:nth-child(2) > div.css-175oi2r.r-16y2uox.r-1wbh5a2 > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1xcajam.r-zchlnj.r-ipm5af.r-1j63xyz.r-z2knda.r-11z020y.r-7qv4eb.r-1habvwh > div.r-kemksi.r-1uusn97.r-6koalj.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-zh076v.r-ifefl9.r-14l27qf.r-axxi2z.r-z2knda.r-cau0tz.r-7qv4eb.r-zmhzs6 > div.css-175oi2r.r-16y2uox.r-1wbh5a2.r-ifefl9.r-1rnoaur.r-1r851ge > div.css-175oi2r.r-1hslgdd > div.css-175oi2r.r-1awozwy.r-18u37iz:nth-child(3) > a.css-175oi2r.r-16y2uox.r-dnmrzs.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 > div.css-175oi2r.r-1awozwy.r-18u37iz.r-16y2uox.r-ymttw5.r-1yzf0co
+twitter.com##a[href*="/i/premium_sign_up"]
 
 !Twitter収益化
-twitter.com###layers > div.css-175oi2r.r-aqfbo4.r-zchlnj.r-1xcajam.r-1d2f490.r-12vffkv:last-child > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-1pz39u2.r-16y2uox.r-1wbh5a2 > div.css-175oi2r.r-1ny4l3l:nth-child(2) > div.css-175oi2r.r-16y2uox.r-1wbh5a2 > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1xcajam.r-zchlnj.r-ipm5af.r-1j63xyz.r-z2knda.r-11z020y.r-7qv4eb.r-1habvwh > div.r-kemksi.r-1uusn97.r-6koalj.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-zh076v.r-ifefl9.r-14l27qf.r-axxi2z.r-z2knda.r-cau0tz.r-7qv4eb.r-zmhzs6 > div.css-175oi2r.r-16y2uox.r-1wbh5a2.r-ifefl9.r-1rnoaur.r-1r851ge > div.css-175oi2r.r-1hslgdd > div.css-175oi2r.r-1awozwy.r-18u37iz:nth-child(7) > a.css-175oi2r.r-16y2uox.r-dnmrzs.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 > div.css-175oi2r.r-1awozwy.r-18u37iz.r-16y2uox.r-ymttw5.r-1yzf0co
+twitter.com##a[href*="/settings/monetization"]
 
 !Twitter広告(左バーの「広告」）
-twitter.com###layers > div.css-175oi2r.r-aqfbo4.r-zchlnj.r-1xcajam.r-1d2f490.r-12vffkv:last-child > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-1pz39u2.r-16y2uox.r-1wbh5a2 > div.css-175oi2r.r-1ny4l3l:nth-child(2) > div.css-175oi2r.r-16y2uox.r-1wbh5a2 > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1xcajam.r-zchlnj.r-ipm5af.r-1j63xyz.r-z2knda.r-11z020y.r-7qv4eb.r-1habvwh > div.r-kemksi.r-1uusn97.r-6koalj.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-zh076v.r-ifefl9.r-14l27qf.r-axxi2z.r-z2knda.r-cau0tz.r-7qv4eb.r-zmhzs6 > div.css-175oi2r.r-16y2uox.r-1wbh5a2.r-ifefl9.r-1rnoaur.r-1r851ge > div.css-175oi2r.r-1hslgdd > div.css-175oi2r.r-1awozwy.r-18u37iz:nth-child(8) > a.css-175oi2r.r-16y2uox.r-dnmrzs.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 > div.css-175oi2r.r-1awozwy.r-18u37iz.r-16y2uox.r-ymttw5.r-1yzf0co
+twitter.com##a[href*="https://ads.twitter.com/?ref=gl-tw-tw-twitter-ads-rweb"]
 
 !Twitter 求人
-twitter.com###layers > div.css-175oi2r.r-aqfbo4.r-zchlnj.r-1xcajam.r-1d2f490.r-12vffkv:last-child > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-12vffkv > div.css-175oi2r.r-1pz39u2.r-16y2uox.r-1wbh5a2 > div.css-175oi2r.r-1ny4l3l:nth-child(2) > div.css-175oi2r.r-16y2uox.r-1wbh5a2 > div.css-175oi2r.r-1p0dtai.r-1d2f490.r-1xcajam.r-zchlnj.r-ipm5af.r-1j63xyz.r-z2knda.r-11z020y.r-7qv4eb.r-1habvwh > div.r-kemksi.r-1uusn97.r-6koalj.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-zh076v.r-ifefl9.r-14l27qf.r-axxi2z.r-z2knda.r-cau0tz.r-7qv4eb.r-zmhzs6 > div.css-175oi2r.r-16y2uox.r-1wbh5a2.r-ifefl9.r-1rnoaur.r-1r851ge > div.css-175oi2r.r-1hslgdd > div.css-175oi2r.r-1awozwy.r-18u37iz:nth-child(9) > a.css-175oi2r.r-16y2uox.r-dnmrzs.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21 > div.css-175oi2r.r-1awozwy.r-18u37iz.r-16y2uox.r-ymttw5.r-1yzf0co
+twitter.com##a[href*="jobs"]
+
+!Twitter Grok
+twitter.com##a[href*="/i/grok"]
+
+!Twitter Space Start
+twitter.com##a[href*="/i/spaces/start"]
+
+!Twitter List
+twitter.com##a[href*="lists"]
+
+!Twitter Bookmark
+twitter.com##a[href*="/i/bookmarks"]
+
 
 !シンプルに嫌い
 google.com##a[href*="2shin"]
