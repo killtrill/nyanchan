@@ -138,56 +138,56 @@ twitter.com##a[href*="/i/bookmarks"]
 
 !x.com版ルール
 !Twitter Space 試験運用
-||x.com##div[style="transform: translate3d(0px, 0px, 0px) translateY(100px);"]
-||x.com##div[style="transform: scale(0.999094);"]
-||x.com##div[data-testid^="pill-contents-container"]
+x.com##div[style="transform: translate3d(0px, 0px, 0px) translateY(100px);"]
+x.com##div[style="transform: scale(0.999094);"]
+x.com##div[data-testid^="pill-contents-container"]
 !XCorp Logo
-!||x.com##path[d="M14.258 10.152L23.176 0h-2.113l-7.747 8.813L7.133 0H0l9.352 13.328L0 23.973h2.113l8.176-9.309 6.531 9.309h7.133zm-2.895 3.293l-.949-1.328L2.875 1.56h3.246l6.086 8.523.945 1.328 7.91 11.078h-3.246zm0 0"]
-||x.com##path[d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"]
-||x.com##a[href*="message"]
-||x.com##a[href*="verified-choose"]
-||x.com##a[href*="communities"]
-||x.com##div[aria-controls^="_1_content"]
+!x.com##path[d="M14.258 10.152L23.176 0h-2.113l-7.747 8.813L7.133 0H0l9.352 13.328L0 23.973h2.113l8.176-9.309 6.531 9.309h7.133zm-2.895 3.293l-.949-1.328L2.875 1.56h3.246l6.086 8.523.945 1.328 7.91 11.078h-3.246zm0 0"]
+x.com##path[d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"]
+x.com##a[href*="message"]
+x.com##a[href*="verified-choose"]
+x.com##a[href*="communities"]
+x.com##div[aria-controls^="_1_content"]
 
 !Quate Tweet
-||x.com#$?#article:has(div[class="css-175oi2r r-adacv r-1udh08x r-1kqtdi0 r-1867qdf r-rs99b7 r-o7ynqc r-6416eg r-1ny4l3l r-1loqt21"]) {display: none!important;}
-!||x.com#$?#article:has(div[class="css-1dbjc4n r-1kqtdi0 r-1867qdf r-rs99b7 r-1loqt21 r-wa8dpy r-1ny4l3l r-1udh08x r-o7ynqc r-6416eg"]) {display: none!important;}
-||x.com#$?#article:contains(/引用ツイート/)
+x.com#$?#article:has(div[class="css-175oi2r r-adacv r-1udh08x r-1kqtdi0 r-1867qdf r-rs99b7 r-o7ynqc r-6416eg r-1ny4l3l r-1loqt21"]) {display: none!important;}
+!x.com#$?#article:has(div[class="css-1dbjc4n r-1kqtdi0 r-1867qdf r-rs99b7 r-1loqt21 r-wa8dpy r-1ny4l3l r-1udh08x r-o7ynqc r-6416eg"]) {display: none!important;}
+x.com#$?#article:contains(/引用ツイート/)
 
 !Retweet
-||x.com#$?#article:has(div[class="css-175oi2r r-15zivkp r-q3we1"]) {display: none!important;} 
-!||x.com#$?#article:has(div[class="css-1dbjc4n r-15zivkp r-q3we1"]) {display: none!important;} 
-||x.com#$?#article:contains(/リツイートしました/)
+x.com#$?#article:has(div[class="css-175oi2r r-15zivkp r-q3we1"]) {display: none!important;} 
+!x.com#$?#article:has(div[class="css-1dbjc4n r-15zivkp r-q3we1"]) {display: none!important;} 
+x.com#$?#article:contains(/リツイートしました/)
 
-||x.com#$?#h2:has(div[class^="css-1dbjc4n r-1kihuf0 r-18u37iz r-16y2uox r-17s6mgv"]) {display: none!important;}
-||x.com##div[style="background-image: linear-gradient(61.63deg, rgb(45, 66, 255) -15.05%, rgb(156, 99, 250) 104.96%);"]
-||x.com##div[aria-label^="タイムライン: 話題を検索"]
+x.com#$?#h2:has(div[class^="css-1dbjc4n r-1kihuf0 r-18u37iz r-16y2uox r-17s6mgv"]) {display: none!important;}
+x.com##div[style="background-image: linear-gradient(61.63deg, rgb(45, 66, 255) -15.05%, rgb(156, 99, 250) 104.96%);"]
+x.com##div[aria-label^="タイムライン: 話題を検索"]
 
-||x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr r-1867qdf r-1phboty r-rs99b7 r-1ifxtd0 r-1udh08x"]
+x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr r-1867qdf r-1phboty r-rs99b7 r-1ifxtd0 r-1udh08x"]
 
 !Twitter プレミアム
-||x.com##a[href*="/i/premium_sign_up"]
+x.com##a[href*="/i/premium_sign_up"]
 
 !Twitter収益化
-||x.com##a[href*="/settings/monetization"]
+x.com##a[href*="/settings/monetization"]
 
 !Twitter広告(左バーの「広告」）
-||x.com##a[href*="https://ads.||x.com/?ref=gl-tw-tw-twitter-ads-rweb"]
+x.com##a[href*="https://ads.||x.com/?ref=gl-tw-tw-twitter-ads-rweb"]
 
 !Twitter 求人
-||x.com##a[href*="jobs"]
+x.com##a[href*="jobs"]
 
 !Twitter Grok
-||x.com##a[href*="/i/grok"]
+x.com##a[href*="/i/grok"]
 
 !Twitter Space Start
-||x.com##a[href*="/i/spaces/start"]
+x.com##a[href*="/i/spaces/start"]
 
 !Twitter List
-||x.com##a[href*="lists"]
+x.com##a[href*="lists"]
 
 !Twitter Bookmark
-||x.com##a[href*="/i/bookmarks"]
+x.com##a[href*="/i/bookmarks"]
 
 
 !シンプルに嫌い
