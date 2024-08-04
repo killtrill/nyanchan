@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20240629
+! Version: 20240804
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -166,8 +166,14 @@ x.com##div[aria-label^="タイムライン: 話題を検索"]
 
 x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr r-1867qdf r-1phboty r-rs99b7 r-1ifxtd0 r-1udh08x"]
 
+!デスクトップ版：右横　おすすめユーザーなどの要素ごと
+
+x.com##div[class^="css-175oi2r r-kemksi r-1kqtdi0 r-1867qdf r-1phboty r-rs99b7 r-1ifxtd0 r-1udh08x"]
+
 !Twitter プレミアム
 x.com##a[href*="/i/premium_sign_up"]
+!プレミアムにサブスクライブ・おすすめユーザー
+x.com##aside[role^="complementary"]
 
 !Twitter収益化
 x.com##a[href*="/settings/monetization"]
