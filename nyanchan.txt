@@ -173,7 +173,7 @@ x.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr r-1867qdf r-1phboty r-rs99b7 r
 !Twitter プレミアム
 x.com##a[href*="/i/premium_sign_up"]
 !プレミアムにサブスクライブ・おすすめユーザー
-x.com##aside[role^="complementary"]
+!x.com##aside[role^="complementary"]
 
 !Twitter収益化
 x.com##a[href*="/settings/monetization"]
