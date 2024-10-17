@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20240804
+! Version: 20241017
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -116,7 +116,7 @@ twitter.com##div[class^="css-1dbjc4n r-g2wdr4 r-14wv3jr r-1867qdf r-1phboty r-rs
 twitter.com##a[href*="/i/premium_sign_up"]
 
 !Twitter収益化
-twitter.com##a[href*="/settings/monetization"]
+twitter.com##a[href*="/i/monetization"]
 
 !Twitter広告(左バーの「広告」）
 twitter.com##a[href*="https://ads.twitter.com/?ref=gl-tw-tw-twitter-ads-rweb"]
@@ -176,7 +176,7 @@ x.com##a[href*="/i/premium_sign_up"]
 !x.com##aside[role^="complementary"]
 
 !Twitter収益化
-x.com##a[href*="/settings/monetization"]
+x.com##a[href*="/i/monetization"]
 
 !Twitter広告(左バーの「広告」）
 x.com##a[href*="https://ads.x.com/?ref=gl-tw-tw-twitter-ads-rweb"]
