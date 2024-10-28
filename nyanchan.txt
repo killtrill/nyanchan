@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20241017
+! Version: 20241028
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -99,7 +99,7 @@ twitter.com##div[aria-controls^="_1_content"]
 !Quate Tweet
 twitter.com#$?#article:has(div[class="css-175oi2r r-adacv r-1udh08x r-1kqtdi0 r-1867qdf r-rs99b7 r-o7ynqc r-6416eg r-1ny4l3l r-1loqt21"]) {display: none!important;}
 !twitter.com#$?#article:has(div[class="css-1dbjc4n r-1kqtdi0 r-1867qdf r-rs99b7 r-1loqt21 r-wa8dpy r-1ny4l3l r-1udh08x r-o7ynqc r-6416eg"]) {display: none!important;}
-twitter.com#$?#article:contains(/引用ツイート/)
+twitter.com#$?#article:contains(/引用/)
 
 !Retweet
 twitter.com#$?#article:has(div[class="css-175oi2r r-15zivkp r-q3we1"]) {display: none!important;} 
@@ -153,7 +153,7 @@ x.com##a[href*="/verified-orgs-signup"]
 !Quate Tweet
 x.com#$?#article:has(div[class="css-175oi2r r-adacv r-1udh08x r-1kqtdi0 r-1867qdf r-rs99b7 r-o7ynqc r-6416eg r-1ny4l3l r-1loqt21"]) {display: none!important;}
 !x.com#$?#article:has(div[class="css-1dbjc4n r-1kqtdi0 r-1867qdf r-rs99b7 r-1loqt21 r-wa8dpy r-1ny4l3l r-1udh08x r-o7ynqc r-6416eg"]) {display: none!important;}
-x.com#$?#article:contains(/引用ツイート/)
+x.com#$?#article:contains(/引用/)
 
 !Retweet
 x.com#$?#article:has(div[class="css-175oi2r r-15zivkp r-q3we1"]) {display: none!important;} 
