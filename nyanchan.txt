@@ -151,7 +151,7 @@ x.com##path[d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.9
 !XCorp Logo(2025NewYear?/Desktop)
 x.com##svg[class^="r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-lrsllp r-1nao33i r-16y2uox r-8kz0gk"]
 !XCorp Logo(2025NewYear?/Mobile)
-x.com##svg[class^="r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-lrsllp r-1nao33i r-16y2uox r-lwhw9o"]
+x.com##svg[class^="r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-1nao33i r-16y2uox r-lwhw9o"]
 
 !Tweetする
 x.com##button[data-testid^="grokImgGen"]
