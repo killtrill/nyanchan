@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20241124
+! Version: 20241228
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -91,6 +91,9 @@ twitter.com##div[data-testid^="pill-contents-container"]
 !XCorp Logo
 !twitter.com##path[d="M14.258 10.152L23.176 0h-2.113l-7.747 8.813L7.133 0H0l9.352 13.328L0 23.973h2.113l8.176-9.309 6.531 9.309h7.133zm-2.895 3.293l-.949-1.328L2.875 1.56h3.246l6.086 8.523.945 1.328 7.91 11.078h-3.246zm0 0"]
 twitter.com##path[d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"]
+
+
+
 twitter.com##a[href*="message"]
 twitter.com##a[href*="verified-choose"]
 twitter.com##a[href*="communities"]
@@ -144,6 +147,16 @@ x.com##div[data-testid^="pill-contents-container"]
 !XCorp Logo
 !x.com##path[d="M14.258 10.152L23.176 0h-2.113l-7.747 8.813L7.133 0H0l9.352 13.328L0 23.973h2.113l8.176-9.309 6.531 9.309h7.133zm-2.895 3.293l-.949-1.328L2.875 1.56h3.246l6.086 8.523.945 1.328 7.91 11.078h-3.246zm0 0"]
 x.com##path[d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"]
+
+!XCorp Logo(2025NewYear?)
+x.com##svg[class^="r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-lrsllp r-1nao33i r-16y2uox r-8kz0gk"]
+
+!Tweetする
+x.com##button[data-testid^="grokImgGen"]
+x.com##button[data-testid^="gifSearchButton"]
+x.com##button[data-testid^="createPollButton"]
+x.com##button[data-testid^="geoButton"]
+
 x.com##a[href*="message"]
 x.com##a[href*="verified-choose"]
 x.com##a[href*="communities"]
