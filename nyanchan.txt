@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20241228
+! Version: 20250120
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -130,6 +130,8 @@ twitter.com##a[href*="jobs"]
 !Twitter Grok
 twitter.com##a[href*="/i/grok"]
 
+
+
 !Twitter Space Start
 twitter.com##a[href*="/i/spaces/start"]
 
@@ -202,6 +204,12 @@ x.com##a[href*="jobs"]
 !Twitter Grok
 x.com##a[href*="/i/grok"]
 
+!プロフィールを要約するのGrokアイコンを消す
+x.com##button[class^="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-6gpygo r-1wron08 r-2yi16 r-1qi8awa r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l"]
+
+!よくわからん右下のGrokアイコン
+x.com##div[class^="css-175oi2r r-1867qdf r-qo02w8 r-13awgt0 r-1ce3o0f r-1udh08x r-u8s1d r-13qz1uu r-173mn98 r-1e5uvyk r-5zmot r-j7xza8 r-rs99b7 r-12jitg0"]
+
 !Twitter Space Start
 x.com##a[href*="/i/spaces/start"]
 
@@ -210,6 +218,8 @@ x.com##a[href*="lists"]
 
 !Twitter Bookmark
 x.com##a[href*="/i/bookmarks"]
+
+
 
 
 !シンプルに嫌い
