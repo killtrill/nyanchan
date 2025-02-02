@@ -328,6 +328,9 @@ amazon.co.jp##div[class="p13nprofilepicker-react-app-ingress"]
 !bingトップ　検索バーより下を全部除去(PC)
 bing.com##div[class*="vs"]
 
+!bing AI拡張要約（使えん）
+bing.com##li[class^="b_ans"]
+
 !-------------------------------------------
 
 !Wikipedia
