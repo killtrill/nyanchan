@@ -204,14 +204,15 @@ x.com##a[href*="jobs"]
 !Twitter Grok
 x.com##a[href*="/i/grok"]
 
-!プロフィールを要約するのGrokアイコンを消す
-x.com##button[class^="css-175oi2r r-sdzlij r-1phboty r-rs99b7 r-lrvibr r-6gpygo r-1wron08 r-2yi16 r-1qi8awa r-1loqt21 r-o7ynqc r-6416eg r-1ny4l3l"]
-
 !よくわからん右下のGrokアイコン
 x.com##div[class^="css-175oi2r r-1867qdf r-qo02w8 r-13awgt0 r-1ce3o0f r-1udh08x r-u8s1d r-13qz1uu r-173mn98 r-1e5uvyk r-5zmot r-j7xza8 r-rs99b7 r-12jitg0"]
 
+!プロフィールを要約する（button:has使用ルール)
+x.com#$?#button:has(path[d^="M2.205 7.423L11.745 21h4.241L6.446 7.423H2.204zm4.237 7.541L2.2 21h4.243l2.12-3.017-2.121-3.02zM16.957 0L9.624 10.435l2.122 3.02L21.2 0h-4.243zm.767 6.456V21H21.2V1.51l-3.476 4.946z"]) {display: none!important;} 
+
 !ツイート画面右上の下品なGrokのアクション
 x.com##path[d^="M2.205 7.423L11.745 21h4.241L6.446 7.423H2.204zm4.237 7.541L2.2 21h4.243l2.12-3.017-2.121-3.02zM16.957 0L9.624 10.435l2.122 3.02L21.2 0h-4.243zm.767 6.456V21H21.2V1.51l-3.476 4.946z"]
+
 
 !Twitter Space Start
 x.com##a[href*="/i/spaces/start"]
