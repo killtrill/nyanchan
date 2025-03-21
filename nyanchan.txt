@@ -324,6 +324,10 @@ amazon.co.jp##div[class="a-cardui atv-draper-video-card"]
 !ショッピングしているのはどなたですか？って意味不明なんですけど
 amazon.co.jp##div[class="p13nprofilepicker-react-app-ingress"]
 
+!スポンサー広告
+amazon.co.jp##a[href^="https://aax-fe.amazon-adsystem.com"]
+amazon.co.jp##div[data-var^="advertiser"]
+
 
 
 !-------------------------------------------
