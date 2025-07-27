@@ -335,6 +335,7 @@ amazon.co.jp##div[data-is-interest-based-ads-opt-out^="false"]
 amazon.co.jp##div[data-csa-c-painter^="store-spotlight-v2-creative-mobile-cards"]
 amazon.co.jp##div[id^="dpx-rex-nice-widget-container"]
 amazon.co.jp##div[id^="mobile-ads-"]
+amazon.co.jp##div[data-csa-c-slot-id^="discovery-and-inspiration-container-"]
 
 
 
