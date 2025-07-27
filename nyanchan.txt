@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20250227
+! Version: 20250727
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -327,7 +327,8 @@ amazon.co.jp##div[class="p13nprofilepicker-react-app-ingress"]
 !スポンサー広告
 amazon.co.jp##a[href^="https://aax-fe.amazon-adsystem.com"]
 amazon.co.jp##div[data-var^="advertiser"]
-
+amazon.co.jp##span[data-video-type^="sponsored"]
+amazon.co.jp##div[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 
 
 !-------------------------------------------
