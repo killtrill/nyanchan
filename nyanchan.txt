@@ -331,6 +331,9 @@ amazon.co.jp##span[data-video-type^="sponsored"]
 amazon.co.jp##div[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
 amazon.co.jp##div[class^="a-spinner-wrapper s-loading-spinner"]
 amazon.co.jp##div[data-cel-widget^="sb-video-product-collection-"]
+amazon.co.jp##div[data-is-interest-based-ads-opt-out^="false"]
+amazon.co.jp##div[data-csa-c-painter^="store-spotlight-v2-creative-mobile-cards"]
+
 
 
 
