@@ -329,6 +329,9 @@ amazon.co.jp##a[href^="https://aax-fe.amazon-adsystem.com"]
 amazon.co.jp##div[data-var^="advertiser"]
 amazon.co.jp##span[data-video-type^="sponsored"]
 amazon.co.jp##div[cel_widget_id^="MAIN-FEATURED_ASINS_LIST-"]
+amazon.co.jp##div[class^="a-spinner-wrapper s-loading-spinner"]
+amazon.co.jp##div[data-cel-widget^="sb-video-product-collection-"]
+
 
 
 !-------------------------------------------
