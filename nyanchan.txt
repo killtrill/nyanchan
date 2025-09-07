@@ -52,6 +52,10 @@ google.com##div[class^="MjjYud"]:has(a[href*="https://thebest-1.com"])
 bing.com##li[class^="b_algo"]:has-text("rank1-media.com")
 google.com##div[class^="MjjYud"]:has(a[href*="https://rank1-media.com"])
 
+||gizmodo.jp
+##a[href*="gizmodo.jp"]
+bing.com##li[class^="b_algo"]:has-text("gizmodo.jp")
+google.com##div[class^="MjjYud"]:has(a[href*="https://gizmodo.jp"])
 
 !-------------------------------------------
 
