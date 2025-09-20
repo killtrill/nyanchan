@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20250727
+! Version: 20250920
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -153,11 +153,15 @@ x.com##div[data-testid^="pill-contents-container"]
 !XCorp Logo
 !x.com##path[d="M14.258 10.152L23.176 0h-2.113l-7.747 8.813L7.133 0H0l9.352 13.328L0 23.973h2.113l8.176-9.309 6.531 9.309h7.133zm-2.895 3.293l-.949-1.328L2.875 1.56h3.246l6.086 8.523.945 1.328 7.91 11.078h-3.246zm0 0"]
 x.com##path[d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"]
+x.com##path[d="M21.742 21.75l-7.563-11.179 7.056-8.321h-2.456l-5.691 6.714-4.54-6.714H2.359l7.29 10.776L2.25 21.75h2.456l6.035-7.118 4.818 7.118h6.191-.008zM7.739 3.818L18.81 20.182h-2.447L5.29 3.818h2.447z"]
+
 
 !XCorp Logo(2025NewYear?/Desktop)
 x.com##svg[class^="r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-lrsllp r-1nao33i r-16y2uox r-8kz0gk"]
 !XCorp Logo(2025NewYear?/Mobile)
 x.com##svg[class^="r-4qtqp9 r-yyyyoo r-dnmrzs r-bnwqim r-lrvibr r-m6rgpd r-1nao33i r-16y2uox r-lwhw9o"]
+
+
 
 !Tweetする
 x.com##button[data-testid^="grokImgGen"]
@@ -170,6 +174,7 @@ x.com##a[href*="verified-choose"]
 x.com##a[href*="communities"]
 x.com##div[aria-controls^="_1_content"]
 x.com##a[href*="/verified-orgs-signup"]
+x.com##a[href*="/i/chat"]
 
 !Quate Tweet
 x.com#$?#article:has(div[class="css-175oi2r r-adacv r-1udh08x r-1kqtdi0 r-1867qdf r-rs99b7 r-o7ynqc r-6416eg r-1ny4l3l r-1loqt21"]) {display: none!important;}
