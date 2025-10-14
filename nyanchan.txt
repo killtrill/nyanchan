@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20251005
+! Version: 20251015
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
