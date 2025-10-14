@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20251004
+! Version: 20251005
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -362,7 +362,7 @@ amazon.co.jp##div[data-csa-c-slot-id^="discovery-and-inspiration-container-"]
 bing.com##div[class*="vs"]
 
 !bing AI拡張要約（使えん）
-bing.com##li[class^="b_ans"]
+!bing.com##li[class^="b_ans"]
 
 !-------------------------------------------
 
