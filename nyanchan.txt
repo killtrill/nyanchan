@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20251015
+! Version: 20251206
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -334,9 +334,12 @@ yahoo.co.jp##div[class="Coupon_StreamCoupon__content__vcr93"]
 
 !トップの自動再生Prime Video(スマホ）
 amazon.co.jp##div[class="a-cardui atv-draper-video-card"]
+amazon.co.jp##div[class^="window-container horizontal-parent"]
 
 !ショッピングしているのはどなたですか？って意味不明なんですけど
 amazon.co.jp##div[class="p13nprofilepicker-react-app-ingress"]
+
+
 
 !スポンサー広告
 amazon.co.jp##a[href^="https://aax-fe.amazon-adsystem.com"]
