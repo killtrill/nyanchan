@@ -1,5 +1,5 @@
 ! Title: nyanchan
-! Version: 20251206
+! Version: 20251221
 ! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
@@ -217,6 +217,9 @@ x.com##a[href*="jobs"]
 
 !Twitter Grok
 x.com##a[href*="/i/grok"]
+
+!Twitter クリエイタースタジオ
+x.com##a[href*="/i/jf/creators/studio"]
 
 !よくわからん右下のGrokアイコン
 x.com##div[class^="css-175oi2r r-1867qdf r-qo02w8 r-13awgt0 r-1ce3o0f r-1udh08x r-u8s1d r-13qz1uu r-173mn98 r-1e5uvyk r-5zmot r-j7xza8 r-rs99b7 r-12jitg0"]
