@@ -60,6 +60,7 @@ google.com##div[class^="MjjYud"]:has(a[href*="https://gizmodo.jp"])
 ||note.com
 ##a[href*="note.com"]
 bing.com##li[class^="b_algo"]:has-text("note.com")
+bing.com#$?#div[class^="b_caption b_capmedia"]:contains(/[Nn]ote/)
 google.com##div[class^="MjjYud"]:has(a[href*="https://note.com"])
 
 !-------------------------------------------
@@ -378,6 +379,7 @@ bing.com##div[class*="vs"]
 !深く掘り下げる（PAA)
 bing.com##div[class*="b_rs rsExplr"]
 bing.com##div[class*="richrswrapper rsExplr"]
+bing.com##div[id*="b_mrs_DynamicMRS rsExplr"]
 
 !-------------------------------------------
 
