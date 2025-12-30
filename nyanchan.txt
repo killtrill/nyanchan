@@ -57,6 +57,11 @@ google.com##div[class^="MjjYud"]:has(a[href*="https://rank1-media.com"])
 bing.com##li[class^="b_algo"]:has-text("gizmodo.jp")
 google.com##div[class^="MjjYud"]:has(a[href*="https://gizmodo.jp"])
 
+||note.com
+##a[href*="note.com"]
+bing.com##li[class^="b_algo"]:has-text("note.com")
+google.com##div[class^="MjjYud"]:has(a[href*="https://note.com"])
+
 !-------------------------------------------
 
 !Yahoo 共同通信
@@ -369,6 +374,10 @@ bing.com##div[class*="vs"]
 
 !bing AI拡張要約（使えん）
 !bing.com##li[class^="b_ans"]
+
+!深く掘り下げる（PAA)
+bing.com##div[class*="b_rs rsExplr"]
+bing.com##div[class*="richrswrapper rsExplr"]
 
 !-------------------------------------------
 
