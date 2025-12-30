@@ -59,9 +59,12 @@ google.com##div[class^="MjjYud"]:has(a[href*="https://gizmodo.jp"])
 
 ||note.com
 ##a[href*="note.com"]
+##a[href*="note.jp"]
 bing.com##li[class^="b_algo"]:has-text("note.com")
+bing.com##li[class^="b_algo"]:has-text("note.jp")
 !bing.com#$?#div[class^="b_caption b_capmedia"]:contains(/[Nn]ote/)
 google.com##div[class^="MjjYud"]:has(a[href*="https://note.com"])
+google.com##div[class^="MjjYud"]:has(a[href*="https://note.jp"])
 
 !-------------------------------------------
 
