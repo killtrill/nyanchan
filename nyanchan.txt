@@ -1,6 +1,5 @@
 ! Title: nyanchan
-! Version: 20251230
-! Homepage: https://github.com/killtrill/nyanchan
+! Version: 20260630! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
 
@@ -70,6 +69,9 @@ google.com##div[class^="MjjYud"]:has(a[href*="https://note.jp"])
 
 !Yahoo 共同通信
 yahoo.co.jp##a[data-cl-params*="-kyodonews"]
+
+!文春（piano.io)
+||buy-ap.piano.io/checkout/offer/show$subdocument
 
 !遠野なぎこ
 yahoo.co.jp##a:has-text(/遠野なぎこ/) 
