@@ -1,5 +1,6 @@
 ! Title: nyanchan
-! Version: 20260630! Homepage: https://github.com/killtrill/nyanchan
+! Version: 2026805
+! Homepage: https://github.com/killtrill/nyanchan
 
 !-------------------------------------------
 
@@ -200,6 +201,7 @@ x.com#$?#article:contains(/引用/)
 !Retweet
 x.com#$?#article:has(div[class="css-175oi2r r-15zivkp r-q3we1"]) {display: none!important;} 
 !x.com#$?#article:has(div[class="css-1dbjc4n r-15zivkp r-q3we1"]) {display: none!important;} 
+x.com#$?#article:has(div[class="css-g5y9jx r-18kxxzh r-1wron08 r-onrtq4 r-obd0qt r-1777fci"]) {display: none!important;} 
 x.com#$?#article:contains(/リツイートしました/)
 
 x.com#$?#h2:has(div[class^="css-1dbjc4n r-1kihuf0 r-18u37iz r-16y2uox r-17s6mgv"]) {display: none!important;}
